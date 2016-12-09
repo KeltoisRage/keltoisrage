@@ -1,3 +1,4 @@
+### Kallaikia - Keltoi's Rage
 ```                            ...''',,;;;;;;,,'''...
                           ..',,;;;:ccc::c:cccccc:::;;,,,..
                        .',;:cccllol:::;,,,',,;;::collcc::,,..
@@ -7,18 +8,18 @@
               ..;oxxl;.                                      .:odol,.
              ',lxdoc.            K A L L I K I A               'cddl'.
             ';okdc.                                             .cooc,.
-           ';lxdc.     O   R E I N O   D A S   T E B R A S       .:lol,
+           ';lxdc.         K E L T O I ' S    R A G E            .:lol,
           ';odl;                                                  .:olc'
          .:oxd:                                                    'lol;
          ;lxkl.                                                     :dl:.
         .coxl,                                                      ':cc,
         ;:lo;.                                                      .':c:
-        ;clo:                 0ri0n.no-ip.biz:4000                  .':lc.
+        ;clo:                 keltoisrage.com:4000                  .':lc.
         :lox:                                                       .,coc
         ;odx,.                                                      .:lo,
         .loo,.                                                      .:c:.
          cocc'                                                     .;ll,
-         .:cc:.   .           2014 (c) BuRZuM-iSHi            .... .;;'
+         .:cc:.   .         2014-2016 (c) @burzumishi         .... .;;'
           .:o,..',;,.                                       .''..cc'...
          ..',:oOOo;;;,.                                 ...'....':oOOxc,.
         .co0NXOoool:,;;'',.                             ......',;lO0kxc,
@@ -32,8 +33,4 @@
                     .,.
 ```
 
-Código fonte da páxina en GitHub pertencente a ^O Reino das Tebras^
-
-Lendas do Libro das Invasións Irlandesas.
-
-Basado no servidor Smaug1.8b de "Realms Of Despair"
+Baseado nas *Lendas do Libro das Invasións Irlandesas*.
