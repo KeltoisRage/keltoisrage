@@ -50,7 +50,7 @@
 		/* font-family: 'Source Sans Pro', sans-serif; */
 		font-family: 'KellsSD', Conv_KellsSD;
 		font-weight: normal;
-		font-size: 12pt;
+		font-size: 10pt;
 		/* font-size: 4.5em; */
 		line-height: 1.2em;
 		color: #39454b;
@@ -137,7 +137,7 @@
 	}
 
 	header {
-		margin-bottom: 20px;
+		margin-bottom: 5px;
 	}
 	
 		header p {
@@ -1124,13 +1124,13 @@
 		top: 0;
 		width: 100%;
 		background: #222;
-		height: 2.2em;
-		line-height: 2.2em;
+		height: 1em;
+		line-height: 1em;
 		box-shadow: 0 0 0.15em 0 rgba(0,0,0,0.1);
 	}
 	
 	body {
-		padding-top: 2.2em;
+		padding-top: 1em;
 	}
 
 	#logo {
@@ -1138,7 +1138,7 @@
 		position: absolute;
 		left: 1em;
 		top: 10px;
-		witdh: 25%;
+		width: 15%;
 	}
 	
 	#nav {
